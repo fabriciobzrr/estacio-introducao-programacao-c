@@ -1,26 +1,20 @@
-\# Introdução à Programação de Computadores - C
+# Introdução à Programação de Computadores - C
+
+**Curso:** Engenharia de Software  
+
+**Disciplina:** Introdução à Programação de Computadores  
+
+**Linguagem:** C  
 
 
 
-\*\*Curso:\*\* Engenharia de Software  
-
-\*\*Disciplina:\*\* Introdução à Programação de Computadores  
-
-\*\*Linguagem:\*\* C  
-
-
-
-\## 📌 Sobre
-
-
+## 📌 Sobre
 
 Códigos e exercícios desenvolvidos durante a disciplina.
 
 
 
-\## 🛠️ Compilar e executar
-
-
+## 🛠️ Compilar e executar
 
 ```bash
 
