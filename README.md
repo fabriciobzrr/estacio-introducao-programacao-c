@@ -27,8 +27,7 @@ Códigos e exercícios desenvolvidos durante a disciplina.
 gcc arquivo.c -o arquivo
 
 ./arquivo
-
-
+```
 
 👨‍💻 Autor
 
