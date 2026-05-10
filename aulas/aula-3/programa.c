@@ -4,11 +4,12 @@ int main() {
   char nome[50];
   int idade;
   printf("Digite seu nome: ");
-  scanf("%s", &nome);
+  fgets(nome, 50, stdin);
   printf("Digite sua idade: ");
   scanf("%d", &idade);
 
-  printf("Seu nome é %s e sua idade é %d", nome, idade);
+  printf("Seu nome: %s", nome);
+  printf("Sua idade:  %d", idade);
 
   return 0;
 }
